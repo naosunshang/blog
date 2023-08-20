@@ -8,3 +8,5 @@
 + 喜欢的歌手/乐队：Warma/V在燃烧/Radiohead/病蛹乐队/窦唯/更多...
 + 喜欢的事情：玩游戏/晚上躺在床上听来自[r/nosleep](https://www.reddit.com/r/nosleep/)板块的可怕故事
 + 喜欢的UP主/Youtuber：Warma/怒九笑/Exploding TNT/Pink Sheep/小黑屋的貘_mo
+# 热门帖文
++ [8月编程考级计划表]https://github.com/naosunshang/blog/issues/2)
