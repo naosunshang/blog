@@ -1,5 +1,5 @@
 # 麻的Brain Dameged 的个人空间
-“疯狂在个人身上很离奇，但是疯狂在社会中是一种规则。”
+> “疯狂在个人身上很离奇，但是疯狂在社会中是一种规则。”
 
 这是 麻的Brain Dameged 的个人博客。要开始阅读，请点击lssues来查看我的博文或者[直接点击这里](https://github.com/naosunshang/blog/issues)。
 # 关于我
