@@ -6,5 +6,5 @@
 + 喜欢的电子游戏：Minecraft/赛博朋克2077/POSTAL 2/荒野乱斗
 + 喜欢的电影：POSTAL Movie（邮政恐怖分子/快乐的恐怖分子/夺命邮差大电影）
 + 喜欢的歌手/乐队：Warma/V在燃烧/Radiohead/病蛹乐队/窦唯/更多...
-+ 喜欢的事情：玩游戏/晚上躺在床上听来自![r/nosleep](https://www.reddit.com/r/nosleep/)板块的可怕故事
++ 喜欢的事情：玩游戏/晚上躺在床上听来自[r/nosleep](https://www.reddit.com/r/nosleep/)板块的可怕故事
 + 喜欢的UP主/Youtuber：Warma/怒九笑/Exploding TNT/Pink Sheep/小黑屋的貘_mo
