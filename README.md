@@ -2,6 +2,8 @@
 > “疯狂在个人身上很离奇，但是疯狂在社会中是一种规则。”
 
 这是 麻的Brain Dameged 的个人博客。要开始阅读，请点击lssues来查看我的博文或者[直接点击这里](https://github.com/naosunshang/blog/issues)。
+# 精选
++ [8月编程考级计划表](https://github.com/naosunshang/blog/issues/2)
 # 关于我
 + 喜欢的电子游戏：Minecraft/赛博朋克2077/POSTAL 2/荒野乱斗/Saiko No Sutuka/更多...
 + 喜欢的电影：POSTAL Movie（邮政恐怖分子/快乐的恐怖分子/夺命邮差大电影）
@@ -13,5 +15,3 @@
 + Issues 有我的博文。
 + draft文件夹里装的都是草稿。
 + 不要动这个仓库的任何东西。
-# 精选
-+ [8月编程考级计划表](https://github.com/naosunshang/blog/issues/2)
