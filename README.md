@@ -13,5 +13,5 @@
 + Issues 有我的博文。
 + draft文件夹里装的都是草稿。
 + 不要动这个仓库的任何东西。
-# 热门
+# 精选
 + [8月编程考级计划表](https://github.com/naosunshang/blog/issues/2)
