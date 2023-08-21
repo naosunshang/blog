@@ -1,4 +1,4 @@
-# 麻的Brain Dameged 的个人空间
+# 麻的Brain Dameged 的个人博客
 > “疯狂在个人身上很离奇，但是疯狂在社会中是一种规则。”
 
 这是 麻的Brain Dameged 的个人博客。要开始阅读，请点击lssues来查看我的博文或者[直接点击这里](https://github.com/naosunshang/blog/issues)。
@@ -13,5 +13,5 @@
 + Issues 有我的博文。
 + draft文件夹里装的都是草稿。
 + 不要动这个仓库的任何东西。
-# 热门帖文
+# 热门
 + [8月编程考级计划表](https://github.com/naosunshang/blog/issues/2)
